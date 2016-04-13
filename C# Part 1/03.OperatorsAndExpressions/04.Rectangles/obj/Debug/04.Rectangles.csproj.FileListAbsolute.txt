@@ -1,0 +1,6 @@
+G:\Projects\Work\Telerik-Academy-2016\C# Part 1\03.OperatorsAndExpressions\04.Rectangles\bin\Debug\04.Rectangles.exe.config
+G:\Projects\Work\Telerik-Academy-2016\C# Part 1\03.OperatorsAndExpressions\04.Rectangles\bin\Debug\04.Rectangles.exe
+G:\Projects\Work\Telerik-Academy-2016\C# Part 1\03.OperatorsAndExpressions\04.Rectangles\bin\Debug\04.Rectangles.pdb
+G:\Projects\Work\Telerik-Academy-2016\C# Part 1\03.OperatorsAndExpressions\04.Rectangles\obj\Debug\04.Rectangles.csprojResolveAssemblyReference.cache
+G:\Projects\Work\Telerik-Academy-2016\C# Part 1\03.OperatorsAndExpressions\04.Rectangles\obj\Debug\04.Rectangles.exe
+G:\Projects\Work\Telerik-Academy-2016\C# Part 1\03.OperatorsAndExpressions\04.Rectangles\obj\Debug\04.Rectangles.pdb

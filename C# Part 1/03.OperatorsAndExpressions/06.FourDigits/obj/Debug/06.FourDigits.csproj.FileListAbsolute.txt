@@ -1,0 +1,6 @@
+G:\Projects\Work\Telerik-Academy-2016\C# Part 1\03.OperatorsAndExpressions\06.FourDigits\bin\Debug\06.FourDigits.exe.config
+G:\Projects\Work\Telerik-Academy-2016\C# Part 1\03.OperatorsAndExpressions\06.FourDigits\bin\Debug\06.FourDigits.exe
+G:\Projects\Work\Telerik-Academy-2016\C# Part 1\03.OperatorsAndExpressions\06.FourDigits\bin\Debug\06.FourDigits.pdb
+G:\Projects\Work\Telerik-Academy-2016\C# Part 1\03.OperatorsAndExpressions\06.FourDigits\obj\Debug\06.FourDigits.csprojResolveAssemblyReference.cache
+G:\Projects\Work\Telerik-Academy-2016\C# Part 1\03.OperatorsAndExpressions\06.FourDigits\obj\Debug\06.FourDigits.exe
+G:\Projects\Work\Telerik-Academy-2016\C# Part 1\03.OperatorsAndExpressions\06.FourDigits\obj\Debug\06.FourDigits.pdb

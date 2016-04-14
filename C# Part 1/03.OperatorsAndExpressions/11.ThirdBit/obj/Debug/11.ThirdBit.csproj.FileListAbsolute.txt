@@ -1,0 +1,5 @@
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\03.OperatorsAndExpressions\11.ThirdBit\bin\Debug\11.ThirdBit.exe.config
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\03.OperatorsAndExpressions\11.ThirdBit\bin\Debug\11.ThirdBit.exe
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\03.OperatorsAndExpressions\11.ThirdBit\bin\Debug\11.ThirdBit.pdb
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\03.OperatorsAndExpressions\11.ThirdBit\obj\Debug\11.ThirdBit.exe
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\03.OperatorsAndExpressions\11.ThirdBit\obj\Debug\11.ThirdBit.pdb

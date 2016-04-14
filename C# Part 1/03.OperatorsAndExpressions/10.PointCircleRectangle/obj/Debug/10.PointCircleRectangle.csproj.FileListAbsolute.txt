@@ -1,0 +1,5 @@
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\03.OperatorsAndExpressions\10.PointCircleRectangle\bin\Debug\10.PointCircleRectangle.exe.config
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\03.OperatorsAndExpressions\10.PointCircleRectangle\bin\Debug\10.PointCircleRectangle.exe
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\03.OperatorsAndExpressions\10.PointCircleRectangle\bin\Debug\10.PointCircleRectangle.pdb
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\03.OperatorsAndExpressions\10.PointCircleRectangle\obj\Debug\10.PointCircleRectangle.exe
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\03.OperatorsAndExpressions\10.PointCircleRectangle\obj\Debug\10.PointCircleRectangle.pdb

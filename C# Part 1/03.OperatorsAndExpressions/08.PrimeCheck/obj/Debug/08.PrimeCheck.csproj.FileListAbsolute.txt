@@ -1,0 +1,6 @@
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\03.OperatorsAndExpressions\08.PrimeCheck\bin\Debug\08.PrimeCheck.exe.config
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\03.OperatorsAndExpressions\08.PrimeCheck\bin\Debug\08.PrimeCheck.exe
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\03.OperatorsAndExpressions\08.PrimeCheck\bin\Debug\08.PrimeCheck.pdb
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\03.OperatorsAndExpressions\08.PrimeCheck\obj\Debug\08.PrimeCheck.csprojResolveAssemblyReference.cache
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\03.OperatorsAndExpressions\08.PrimeCheck\obj\Debug\08.PrimeCheck.exe
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\03.OperatorsAndExpressions\08.PrimeCheck\obj\Debug\08.PrimeCheck.pdb

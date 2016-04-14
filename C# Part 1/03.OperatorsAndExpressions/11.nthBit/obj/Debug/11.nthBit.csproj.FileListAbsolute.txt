@@ -1,0 +1,1 @@
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\03.OperatorsAndExpressions\11.nthBit\bin\Debug\11.nthBit.exe.config

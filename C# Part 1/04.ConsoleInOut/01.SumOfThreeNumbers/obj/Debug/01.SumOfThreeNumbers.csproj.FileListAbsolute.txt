@@ -1,0 +1,6 @@
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\04.ConsoleInOut\01.SumOfThreeNumbers\bin\Debug\01.SumOfThreeNumbers.exe.config
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\04.ConsoleInOut\01.SumOfThreeNumbers\bin\Debug\01.SumOfThreeNumbers.exe
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\04.ConsoleInOut\01.SumOfThreeNumbers\bin\Debug\01.SumOfThreeNumbers.pdb
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\04.ConsoleInOut\01.SumOfThreeNumbers\obj\Debug\01.SumOfThreeNumbers.csprojResolveAssemblyReference.cache
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\04.ConsoleInOut\01.SumOfThreeNumbers\obj\Debug\01.SumOfThreeNumbers.exe
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\04.ConsoleInOut\01.SumOfThreeNumbers\obj\Debug\01.SumOfThreeNumbers.pdb

@@ -1,0 +1,1 @@
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\04.ConsoleInOut\07.SumOfFiveNumbers\bin\Debug\07.SumOfFiveNumbers.exe.config

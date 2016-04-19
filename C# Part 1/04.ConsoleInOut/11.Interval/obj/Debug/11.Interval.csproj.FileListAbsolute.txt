@@ -1,0 +1,5 @@
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\04.ConsoleInOut\11.Interval\bin\Debug\11.Interval.exe.config
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\04.ConsoleInOut\11.Interval\bin\Debug\11.Interval.exe
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\04.ConsoleInOut\11.Interval\bin\Debug\11.Interval.pdb
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\04.ConsoleInOut\11.Interval\obj\Debug\11.Interval.exe
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\04.ConsoleInOut\11.Interval\obj\Debug\11.Interval.pdb

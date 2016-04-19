@@ -1,0 +1,6 @@
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\04.ConsoleInOut\08.Numbers1toN\bin\Debug\08.Numbers1toN.exe.config
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\04.ConsoleInOut\08.Numbers1toN\bin\Debug\08.Numbers1toN.exe
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\04.ConsoleInOut\08.Numbers1toN\bin\Debug\08.Numbers1toN.pdb
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\04.ConsoleInOut\08.Numbers1toN\obj\Debug\08.Numbers1toN.csprojResolveAssemblyReference.cache
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\04.ConsoleInOut\08.Numbers1toN\obj\Debug\08.Numbers1toN.exe
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\04.ConsoleInOut\08.Numbers1toN\obj\Debug\08.Numbers1toN.pdb

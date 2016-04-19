@@ -1,0 +1,5 @@
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\04.ConsoleInOut\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.exe.config
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\04.ConsoleInOut\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.exe
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\04.ConsoleInOut\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.pdb
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\04.ConsoleInOut\10.FibonacciNumbers\obj\Debug\10.FibonacciNumbers.exe
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\04.ConsoleInOut\10.FibonacciNumbers\obj\Debug\10.FibonacciNumbers.pdb

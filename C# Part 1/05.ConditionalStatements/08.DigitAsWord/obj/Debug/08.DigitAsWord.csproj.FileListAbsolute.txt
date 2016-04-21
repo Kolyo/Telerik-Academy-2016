@@ -1,0 +1,1 @@
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\05.ConditionalStatements\08.DigitAsWord\bin\Debug\08.DigitAsWord.exe.config

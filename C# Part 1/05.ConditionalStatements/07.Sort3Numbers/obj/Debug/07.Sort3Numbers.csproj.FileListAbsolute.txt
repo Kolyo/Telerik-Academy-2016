@@ -1,0 +1,1 @@
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\05.ConditionalStatements\07.Sort3Numbers\bin\Debug\07.Sort3Numbers.exe.config

@@ -1,0 +1,5 @@
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\05.ConditionalStatements\04.MultiplicationSign\bin\Debug\04.MultiplicationSign.exe.config
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\05.ConditionalStatements\04.MultiplicationSign\bin\Debug\04.MultiplicationSign.exe
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\05.ConditionalStatements\04.MultiplicationSign\bin\Debug\04.MultiplicationSign.pdb
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\05.ConditionalStatements\04.MultiplicationSign\obj\Debug\04.MultiplicationSign.exe
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\05.ConditionalStatements\04.MultiplicationSign\obj\Debug\04.MultiplicationSign.pdb

@@ -1,0 +1,1 @@
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\05.ConditionalStatements\05.BiggestOf3\bin\Debug\05.BiggestOf3.exe.config

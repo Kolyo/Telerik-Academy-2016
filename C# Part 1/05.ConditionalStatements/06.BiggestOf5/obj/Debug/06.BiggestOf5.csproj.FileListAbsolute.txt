@@ -1,0 +1,1 @@
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\05.ConditionalStatements\06.BiggestOf5\bin\Debug\06.BiggestOf5.exe.config

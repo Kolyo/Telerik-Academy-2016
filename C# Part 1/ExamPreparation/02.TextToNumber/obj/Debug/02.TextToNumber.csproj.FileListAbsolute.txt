@@ -1,0 +1,6 @@
+G:\Projects\Work\Telerik-Academy-2016\C# Part 1\ExamPreparation\02.TextToNumber\bin\Debug\02.TextToNumber.exe.config
+G:\Projects\Work\Telerik-Academy-2016\C# Part 1\ExamPreparation\02.TextToNumber\bin\Debug\02.TextToNumber.exe
+G:\Projects\Work\Telerik-Academy-2016\C# Part 1\ExamPreparation\02.TextToNumber\bin\Debug\02.TextToNumber.pdb
+G:\Projects\Work\Telerik-Academy-2016\C# Part 1\ExamPreparation\02.TextToNumber\obj\Debug\02.TextToNumber.exe
+G:\Projects\Work\Telerik-Academy-2016\C# Part 1\ExamPreparation\02.TextToNumber\obj\Debug\02.TextToNumber.pdb
+G:\Projects\Work\Telerik-Academy-2016\C# Part 1\ExamPreparation\02.TextToNumber\obj\Debug\02.TextToNumber.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\06.Loops\03.MMSA\bin\Debug\03.MMSA.exe.config
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\06.Loops\03.MMSA\bin\Debug\03.MMSA.exe
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\06.Loops\03.MMSA\bin\Debug\03.MMSA.pdb
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\06.Loops\03.MMSA\obj\Debug\03.MMSA.csprojResolveAssemblyReference.cache
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\06.Loops\03.MMSA\obj\Debug\03.MMSA.exe
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\06.Loops\03.MMSA\obj\Debug\03.MMSA.pdb

@@ -1,0 +1,5 @@
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\06.Loops\04.PrintADeck\bin\Debug\04.PrintADeck.exe.config
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\06.Loops\04.PrintADeck\bin\Debug\04.PrintADeck.exe
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\06.Loops\04.PrintADeck\bin\Debug\04.PrintADeck.pdb
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\06.Loops\04.PrintADeck\obj\Debug\04.PrintADeck.exe
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\06.Loops\04.PrintADeck\obj\Debug\04.PrintADeck.pdb

@@ -1,0 +1,6 @@
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\06.Loops\05.Calculate\bin\Debug\05.Calculate.exe.config
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\06.Loops\05.Calculate\bin\Debug\05.Calculate.exe
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\06.Loops\05.Calculate\bin\Debug\05.Calculate.pdb
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\06.Loops\05.Calculate\obj\Debug\05.Calculate.csprojResolveAssemblyReference.cache
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\06.Loops\05.Calculate\obj\Debug\05.Calculate.exe
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\06.Loops\05.Calculate\obj\Debug\05.Calculate.pdb

@@ -1,0 +1,5 @@
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\06.Loops\06.CalculateAgain\bin\Debug\06.CalculateAgain.exe.config
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\06.Loops\06.CalculateAgain\bin\Debug\06.CalculateAgain.exe
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\06.Loops\06.CalculateAgain\bin\Debug\06.CalculateAgain.pdb
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\06.Loops\06.CalculateAgain\obj\Debug\06.CalculateAgain.exe
+C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\06.Loops\06.CalculateAgain\obj\Debug\06.CalculateAgain.pdb

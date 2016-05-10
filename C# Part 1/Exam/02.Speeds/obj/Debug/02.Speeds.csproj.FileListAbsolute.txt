@@ -1,0 +1,6 @@
+G:\Projects\Work\Telerik-Academy-2016\C# Part 1\Exam\02.Speeds\bin\Debug\02.Speeds.exe.config
+G:\Projects\Work\Telerik-Academy-2016\C# Part 1\Exam\02.Speeds\bin\Debug\02.Speeds.exe
+G:\Projects\Work\Telerik-Academy-2016\C# Part 1\Exam\02.Speeds\bin\Debug\02.Speeds.pdb
+G:\Projects\Work\Telerik-Academy-2016\C# Part 1\Exam\02.Speeds\obj\Debug\02.Speeds.csprojResolveAssemblyReference.cache
+G:\Projects\Work\Telerik-Academy-2016\C# Part 1\Exam\02.Speeds\obj\Debug\02.Speeds.exe
+G:\Projects\Work\Telerik-Academy-2016\C# Part 1\Exam\02.Speeds\obj\Debug\02.Speeds.pdb

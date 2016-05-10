@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Arrays", "01.Arrays\01.Arrays.csproj", "{CCF95E1F-5108-45BD-8493-CB5CF36C6A56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.CompareArrays", "02.CompareArrays\02.CompareArrays.csproj", "{C1B70FCC-E88E-41A3-98BD-45CB576D0A77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCF95E1F-5108-45BD-8493-CB5CF36C6A56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCF95E1F-5108-45BD-8493-CB5CF36C6A56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCF95E1F-5108-45BD-8493-CB5CF36C6A56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCF95E1F-5108-45BD-8493-CB5CF36C6A56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1B70FCC-E88E-41A3-98BD-45CB576D0A77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1B70FCC-E88E-41A3-98BD-45CB576D0A77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1B70FCC-E88E-41A3-98BD-45CB576D0A77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1B70FCC-E88E-41A3-98BD-45CB576D0A77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

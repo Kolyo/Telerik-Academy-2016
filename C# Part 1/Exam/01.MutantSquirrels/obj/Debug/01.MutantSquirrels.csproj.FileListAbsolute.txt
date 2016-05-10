@@ -1,0 +1,6 @@
+G:\Projects\Work\Telerik-Academy-2016\C# Part 1\Exam\01.MutantSquirrels\bin\Debug\01.MutantSquirrels.exe.config
+G:\Projects\Work\Telerik-Academy-2016\C# Part 1\Exam\01.MutantSquirrels\bin\Debug\01.MutantSquirrels.exe
+G:\Projects\Work\Telerik-Academy-2016\C# Part 1\Exam\01.MutantSquirrels\bin\Debug\01.MutantSquirrels.pdb
+G:\Projects\Work\Telerik-Academy-2016\C# Part 1\Exam\01.MutantSquirrels\obj\Debug\01.MutantSquirrels.csprojResolveAssemblyReference.cache
+G:\Projects\Work\Telerik-Academy-2016\C# Part 1\Exam\01.MutantSquirrels\obj\Debug\01.MutantSquirrels.exe
+G:\Projects\Work\Telerik-Academy-2016\C# Part 1\Exam\01.MutantSquirrels\obj\Debug\01.MutantSquirrels.pdb

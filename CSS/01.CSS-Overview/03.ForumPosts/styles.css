@@ -1,0 +1,54 @@
+body {
+    background-color: #a7a7a7;
+
+}
+
+h1 {
+    color: #f9fad3;
+    font-size: 35px;
+}
+
+.main-header {
+    font-size: 45px;
+    text-align: center;
+}
+
+nav ul {
+    text-align: center;
+    list-style: none;
+    font-size: 30px;
+
+}
+
+li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+li a:hover {
+    background-color: #d1d1d1;
+}
+
+.active {
+    text-decoration: underline;
+}
+
+p {
+    font-size: 21px;
+}
+
+footer {
+    text-align: center;
+    font-size: 21px;
+}
+
+footer p {
+    text-align: left;
+    font-size: 16px;
+}
+
+footer a {
+    color: #000;
+    text-decoration: none;
+}

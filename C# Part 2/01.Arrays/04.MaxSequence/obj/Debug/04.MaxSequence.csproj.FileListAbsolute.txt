@@ -1,0 +1,6 @@
+G:\Projects\Work\Telerik-Academy-2016\C# Part 2\01.Arrays\04.MaxSequence\bin\Debug\04.MaxSequence.exe.config
+G:\Projects\Work\Telerik-Academy-2016\C# Part 2\01.Arrays\04.MaxSequence\bin\Debug\04.MaxSequence.exe
+G:\Projects\Work\Telerik-Academy-2016\C# Part 2\01.Arrays\04.MaxSequence\bin\Debug\04.MaxSequence.pdb
+G:\Projects\Work\Telerik-Academy-2016\C# Part 2\01.Arrays\04.MaxSequence\obj\Debug\04.MaxSequence.csprojResolveAssemblyReference.cache
+G:\Projects\Work\Telerik-Academy-2016\C# Part 2\01.Arrays\04.MaxSequence\obj\Debug\04.MaxSequence.exe
+G:\Projects\Work\Telerik-Academy-2016\C# Part 2\01.Arrays\04.MaxSequence\obj\Debug\04.MaxSequence.pdb

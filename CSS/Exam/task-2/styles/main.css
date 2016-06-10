@@ -1,0 +1,81 @@
+#root {
+    width: 1024px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 15px 17px;
+}
+
+#site-header {
+    margin: 0 0 19px 0;
+    display: inline-block;
+}
+
+#site-header::before {
+    background: rgba(0, 0, 0, 0) url("../imgs/logo.png") no-repeat scroll center center / 65px 22px;
+    content: " ";
+    display: inline-block;
+    height: 22px;
+    width: 65px;
+    padding-right: 10px;
+}
+
+.superheroes {
+    list-style: none;
+    margin: 0;
+    padding-left: 45px;
+    width: 315px;
+}
+
+.superheroes img, a {
+    display: none;
+}
+
+.superheroes img {
+    border: 3px solid #973a3a;
+    border-radius: 15px;
+    height: 160px;
+    left: 180px;
+    position: absolute;
+    top: 82px;
+    width: 160px;
+    box-sizing: border-box;
+}
+
+.superheroes a {
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
+    left: 180px;
+    position: absolute;
+    text-align: center;
+    top: 225px;
+    width: 160px;
+}
+
+.superheroes li {
+    padding: 10px 20px;
+    border-bottom: 1px solid black;
+    width: 120px;
+    box-sizing: border-box;
+}
+
+.superheroes li:hover {
+    padding: 10px 15px 10px 0;
+}
+
+.superheroes li:hover img, .superheroes li:hover a {
+    display: block;
+}
+
+.superheroes li:hover .hero-header:before {
+    background: rgba(0, 0, 0, 0) url("../imgs/logo.png") no-repeat scroll center center / 15px 5px;
+    content: " ";
+    display: inline-block;
+    height: 5px;
+    width: 15px;
+    padding-right: 5px;
+}
+
+.hero-header:hover {
+    text-shadow: 2px 2px 1px #973a3a;
+
+}
+

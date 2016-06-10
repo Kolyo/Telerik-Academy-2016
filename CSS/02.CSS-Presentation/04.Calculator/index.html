@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Windows Calculator</title>
+    <link rel="stylesheet" type="text/css" href="styles.css"/>
+</head>
+<body>
+<div id="main-container" class="clearfix">
+
+    <div id="header-container">
+        <div id="icon-container">
+            <div id="icon-image"></div>
+            <div id="app-title">Calculator</div>
+        </div>
+        <div id="top-right-btns-container"></div>
+    </div>
+
+    <div id="core-calculator-container">
+
+        <div id="menu-bar">
+            <div id="menu-container" class="clearfix">
+                <ul>
+                    <li><a href="#">View</a></li>
+                    <li><a href="#">Edit</a></li>
+                    <li><a href="#">Help</a></li>
+                </ul>
+            </div>
+        </div>
+
+        <div id="calc-display">
+            <input type="text"/>
+
+        </div>
+
+        <div id="registers-container">
+            <div id="row1">
+                <span>0000</span>
+                <span>0000</span>
+                <span>0000</span>
+                <span>0000</span>
+                <span>0000</span>
+                <span>0000</span>
+                <span>0000</span>
+                <span>0000</span>
+            </div>
+            <div id="row2" class="clearfix">
+                <span>63</span>
+                <span>47</span>
+                <span>32</span>
+            </div>
+            <div id="row3">
+                <span>0000</span>
+                <span>0000</span>
+                <span>0000</span>
+                <span>0000</span>
+                <span>0000</span>
+                <span>0000</span>
+                <span>0000</span>
+                <span>0000</span>
+            </div>
+            <div id="row4" class="clearfix">
+                <span>31</span>
+                <span>15</span>
+                <span>0</span>
+            </div>
+        </div>
+
+        <div id="counting-system-container" class="radio clearfix">
+            <ul class="radio-ul">
+                <li><input type="radio" name="system" id="hex" value="Hex"/><label for="hex">Hex</label></li>
+                <li><input type="radio" name="system" id="dec" value="Dec" checked/><label for="dec">Dec</label></li>
+                <li><input type="radio" name="system" id="oct" value="Oct"/><label for="oct">Oct</label></li>
+                <li><input type="radio" name="system" id="bin" value="Bin"/><label for="bin">Bin</label></li>
+            </ul>
+        </div>
+
+        <div id="data-type-container" class="radio">
+            <ul class="radio-ul">
+                <li><input type="radio" name="data_type" id="qword" value="Qword"/><label for="qword">Qword</label></li>
+                <li><input type="radio" name="data_type" id="dword" value="Dword" checked/><label
+                        for="dword">Dword</label></li>
+                <li><input type="radio" name="data_type" id="word" value="Word"/><label for="word">Word</label></li>
+                <li><input type="radio" name="data_type" id="byte" value="Byte"/><label for="byte">Byte</label></li>
+            </ul>
+        </div>
+
+        <div id="buttons-container">
+            <div id="logical-bttns-container" class="clearfix">
+                <div class="disabled"><input type="button" value="&nbsp;"/></div>
+                <div><input type="button" value="Mod"/></div>
+                <div><input type="button" value="&#40;"/></div>
+                <div><input type="button" value="&#41;"/></div>
+                <div><input type="button" value="RoL"/></div>
+                <div><input type="button" value="RoR"/></div>
+                <div><input type="button" value="Or"/></div>
+                <div><input type="button" value="Xor"/></div>
+                <div><input type="button" value="Lsh"/></div>
+                <div><input type="button" value="Rsh"/></div>
+                <div><input type="button" value="Not"/></div>
+                <div><input type="button" value="And"/></div>
+            </div>
+            <div id="letters-container" class="clearfix">
+                <div class="disabled"><input type="button" value="A"/></div>
+                <div class="disabled"><input type="button" value="B"/></div>
+                <div class="disabled"><input type="button" value="C"/></div>
+                <div class="disabled"><input type="button" value="D"/></div>
+                <div class="disabled"><input type="button" value="E"/></div>
+                <div class="disabled"><input type="button" value="F"/></div>
+            </div>
+            <div id="most-common-bttns-container" class="clearfix">
+                <div><input type="button" value="MC"/></div>
+                <div><input type="button" value="MR"/></div>
+                <div><input type="button" value="MS"/></div>
+                <div><input type="button" value="M+"/></div>
+                <div><input type="button" value="M-"/></div>
+                <div id="arrow" class="gradient"><input type="button" value="&leftarrow;"/></div>
+                <div class="gradient"><input type="button" value="CE"/></div>
+                <div class="gradient"><input type="button" value="C"/></div>
+                <div class="gradient"><input type="button" value="&plusmn;"/></div>
+                <div><input type="button" value="&Sqrt;"/></div>
+                <div class="bigger"><input type="button" value="7"/></div>
+                <div class="bigger"><input type="button" value="8"/></div>
+                <div class="bigger"><input type="button" value="9"/></div>
+                <div class="gradient"><input type="button" value="&frasl;"/></div>
+                <div><input type="button" value="&percnt;"/></div>
+                <div class="bigger"><input type="button" value="4"/></div>
+                <div class="bigger"><input type="button" value="5"/></div>
+                <div class="bigger"><input type="button" value="6"/></div>
+                <div class="gradient"><input type="button" value="&lowast;"/></div>
+                <div><input type="button" value="1/x"/></div>
+                <div class="bigger"><input type="button" value="1"/></div>
+                <div class="bigger"><input type="button" value="2"/></div>
+                <div class="bigger"><input type="button" value="3"/></div>
+                <div class="gradient"><input type="button" value="&minus;"/></div>
+                <div id="double-height"><input type="button" value="&equals;"/></div>
+            </div>
+            <div id="last-tree-btns" class="clearfix">
+                <div id="double-width" class="bigger"><input type="button" value="0"/></div>
+                <div><input type="button" value="&period;"/></div>
+                <div class="gradient"><input type="button" value="&plus;"/></div>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,407 @@
+body, div, span {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    line-height: 1.1;
+}
+
+body {
+    font-family: Tahoma, sans-serif;
+    font-size: 12px;
+}
+
+#main-container {
+    display: block;
+    width: 423px;
+    height: 388px;
+    position: absolute;
+    top: 10px;
+    left: 7px;
+    background-image: url(images/main-container-gradient.png);
+    background-repeat: repeat-x;
+    border: 1px solid #272D34;
+    border-radius: 5px;
+    box-shadow: 2px 2px 20px #000;
+    box-sizing: border-box;
+}
+
+#header-container {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 29px;
+    background-image: url(images/header-container-gradient.png);
+    background-repeat: repeat-y;
+    border: 0;
+    border-radius: inherit;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    box-sizing: border-box;
+}
+
+#icon-container {
+    display: inline-block;
+    position: absolute;
+    left: 10px;
+    top: 6px;
+    width: 100px;
+    height: 20px;
+}
+
+#icon-image {
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-image: url("images/calculator_icon.png");
+    width: 12px;
+    height: 16px;
+}
+
+#app-title {
+    display: inline-block;
+    position: absolute;
+    left: 19px;
+    top: 1px;
+    vertical-align: bottom;
+}
+
+#top-right-btns-container {
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    right: 7px;
+    width: 103px;
+    height: 20px;
+    background-image: url("images/top-right-btns.png");
+}
+
+#menu-bar {
+    font-family: Tahoma, SansSerif;
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 19px;
+    background-image: url("images/menu-bar-gradient.PNG");
+    background-repeat: repeat-x;
+    border-top: 1px solid #5E6D7B;
+    border-bottom: 1px solid #B6BCCC;
+    box-sizing: border-box;
+}
+
+#menu-container {
+    display: inline-block;
+    width: 40%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    box-sizing: border-box;
+}
+
+#menu-container ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    float: left;
+    position: absolute;
+    top: 2px;
+    left: 1px;
+}
+
+#menu-container ul li {
+    display: inline;
+}
+
+#menu-container ul li a {
+    text-decoration: none;
+    color: black;
+    padding-left: 6px;
+    padding-right: 6px;
+}
+
+#menu-container ul li a:first-letter {
+    text-decoration: underline;
+}
+
+#menu-container ul li a:hover {
+    border: 1px solid gray;
+    border-radius: 3px;
+    cursor: default;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+#core-calculator-container {
+    display: block;
+    font-family: Tahoma, SansSerif;
+    color: #203A5C;
+    border-left: 1px solid #5E6D7B;
+    border-right: 1px solid #5E6D7B;
+    border-bottom: 1px solid #5E6D7B;
+    position: absolute;
+    top: 30px;
+    left: 7px;
+    width: 408px;
+    height: 352px;
+    box-sizing: border-box;
+    background-image: url("images/core-calculator-gradient.png");
+    background-repeat: repeat-x;
+}
+
+#calc-display {
+    width: 384px;
+    height: 50px;
+    position: absolute;
+    top: 31px;
+    left: 12px;
+    border: hidden;
+    border-radius: 3px;
+    box-sizing: border-box;
+}
+
+#calc-display input {
+    width: 100%;
+    height: 100%;
+    border: 1px solid #8F9DAD;
+    background-image: url("images/calc-display-gradient.png");
+    background-repeat: repeat-x;
+    font-family: Consolas;
+    font-size: 1.5rem;
+    text-align: right;
+    padding-right: 5px;
+    padding-top: 8px;
+    border-radius: inherit;
+    box-sizing: border-box;
+}
+
+#registers-container {
+    font-family: Consolas, SansSerif;
+    position: absolute;
+    top: 87px;
+    left: 12px;
+    padding-left: 5px;
+    padding-top: 3px;
+    border: 1px solid #8797AA;
+    border-radius: 3px;
+    width: 384px;
+    height: 60px;
+    box-sizing: border-box;
+}
+
+#registers-container #row1 span,
+#registers-container #row3 span {
+    margin-right: 14px;
+}
+
+#registers-container #row1 span:last-of-type,
+#registers-container #row3 span:last-of-type {
+    margin-right: 0;
+}
+
+#registers-container #row2 span:first-of-type,
+#registers-container #row4 span:first-of-type {
+    margin-right: 190px;
+}
+
+#registers-container #row2 span:last-of-type,
+#registers-container #row4 span:last-of-type {
+    float: right;
+    padding-right: 10px;
+}
+
+#registers-container #row2,
+#registers-container #row4 {
+    color: #676767;
+}
+
+#counting-system-container {
+    top: 153px;
+}
+
+#data-type-container {
+    top: 249px;
+}
+
+.radio {
+    position: absolute;
+    left: 12px;
+    width: 72px;
+    height: 90px;
+    border: 1px solid #8797AA;
+    border-radius: 3px;
+    box-sizing: border-box;
+    font-size: 0.7rem;
+}
+
+.radio-ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    float: left;
+    position: absolute;
+    padding-left: 3px;
+}
+
+.radio-ul li input {
+    vertical-align: bottom;
+}
+
+.radio-ul li {
+    margin-top: 5px;
+}
+
+#buttons-container {
+    width: 307px;
+    height: 187px;
+    position: absolute;
+    top: 153px;
+    left: 90px;
+    font-size: 0.7rem;
+}
+
+#logical-bttns-container {
+    padding: 0;
+    margin: 0;
+    width: 78px;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    box-sizing: border-box;
+}
+
+#logical-bttns-container div, #letters-container div,
+#most-common-bttns-container div, #last-tree-btns div {
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+    width: 34px;
+    height: 27px;
+    float: left;
+    border: 1px solid #8F9DAD;
+    border-radius: 3px;
+    text-align: left;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    box-sizing: border-box;
+}
+
+#logical-bttns-container div input, #letters-container div input,
+#most-common-bttns-container div input, #last-tree-btns div input {
+    padding-right: 6px;
+    padding-bottom: 2px;
+    margin: 0;
+    background: none;
+    border: none;
+    width: inherit;
+    height: inherit;
+    font-family: inherit;
+    font-size: inherit;
+    text-align: center;
+    vertical-align: middle;
+    color: inherit;
+    box-sizing: border-box;
+}
+
+#letters-container {
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    top: 0;
+    left: 78px;
+    width: 34px;
+    height: 100%;
+    font-size: 0.95rem;
+    box-sizing: border-box;
+}
+
+#most-common-bttns-container {
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    top: 0;
+    left: 117px;
+    width: 195px;
+    height: 155px;
+    box-sizing: border-box;
+    overflow: visible;
+}
+
+.clearfix:after {
+    content: ".";
+    visibility: hidden;
+    display: block;
+    height: 0;
+    clear: both;
+}
+
+#last-tree-btns {
+    padding: 0;
+    margin: 0;
+    width: 156px;
+    height: 27px;
+    position: absolute;
+    top: 160px;
+    left: 117px;
+}
+
+#last-tree-btns div {
+    height: 27px;
+    float: left;
+}
+
+#most-common-bttns-container #double-height {
+    height: 59px;
+    font-size: 1.4rem;
+    background-image: url("images/equals-button-gradient.png");
+    background-repeat: repeat-x;
+}
+
+#last-tree-btns #double-width {
+    width: 73px;
+}
+
+.bigger {
+    font-size: 0.95rem;
+    background-image: url("images/num-button-gradient.png");
+    background-repeat: repeat-x;
+}
+
+.gradient, #logical-bttns-container div {
+    background-image: url("images/letter-button-gradient.png");
+    background-repeat: repeat-x;
+}
+
+#arrow {
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+#logical-bttns-container div:hover, #most-common-bttns-container div:hover, #last-tree-btns div:hover {
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#fff4e9+0,fff0df+5,fee2c2+45,ffcf6a+50,ffd57a+73,ffdf90+95,ffe9ad+100 */
+    background: #fff4e9; /* Old browsers */
+    background: -moz-linear-gradient(top, #fff4e9 0%, #fff0df 5%, #fee2c2 45%, #ffcf6a 50%, #ffd57a 73%, #ffdf90 95%, #ffe9ad 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, #fff4e9 0%, #fff0df 5%, #fee2c2 45%, #ffcf6a 50%, #ffd57a 73%, #ffdf90 95%, #ffe9ad 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #fff4e9 0%, #fff0df 5%, #fee2c2 45%, #ffcf6a 50%, #ffd57a 73%, #ffdf90 95%, #ffe9ad 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    border: 1px solid #FFCF6B;
+}
+
+#most-common-bttns-container #double-height:hover {
+    background-image: url("images/equals-hover.png");
+    background-repeat: repeat-x;
+}
+
+.disabled, #logical-bttns-container div:first-of-type {
+    background-image: none;
+    border: 1px solid #8F9DAD;
+}
+
+.disabled:hover {
+    background-image: none;
+    border: 1px solid #8F9DAD;
+}

@@ -2,6 +2,9 @@
 .idea/
 bin/
 obj/
+AntiCheat/
 Properties/
 App.config
 *.csproj
+*.zip
+*.rar

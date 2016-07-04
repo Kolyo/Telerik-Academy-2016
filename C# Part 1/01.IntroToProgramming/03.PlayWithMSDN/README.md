@@ -7,8 +7,5 @@
 	- Find information about the Console class.
 	- Find information about the class keyword.
 
-## Solution
-- [Console.WriteLine()](https://msdn.microsoft.com/en-us/library/system.console.writeline(v=vs.110).aspx).
-- [Console.ReadLine()](https://msdn.microsoft.com/en-us/library/system.io.streamreader.readline%28v=vs.110%29.aspx).
-- [Console Class](https://msdn.microsoft.com/en-us/library/system.console%28v=vs.110%29.aspx).
-- [class keyword](https://msdn.microsoft.com/en-us/library/0b0thckt.aspx).
+## Submission
+- You do not have to submit anything for this problem

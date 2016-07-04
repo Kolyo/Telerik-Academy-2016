@@ -1,6 +1,0 @@
-G:\Projects\Work\Telerik-Academy-2016\C# Part 1\01.IntroToProgramming\01.PlayWithVS\bin\Debug\01.PlayWithVS.exe.config
-G:\Projects\Work\Telerik-Academy-2016\C# Part 1\01.IntroToProgramming\01.PlayWithVS\bin\Debug\01.PlayWithVS.exe
-G:\Projects\Work\Telerik-Academy-2016\C# Part 1\01.IntroToProgramming\01.PlayWithVS\bin\Debug\01.PlayWithVS.pdb
-G:\Projects\Work\Telerik-Academy-2016\C# Part 1\01.IntroToProgramming\01.PlayWithVS\obj\Debug\01.PlayWithVS.csprojResolveAssemblyReference.cache
-G:\Projects\Work\Telerik-Academy-2016\C# Part 1\01.IntroToProgramming\01.PlayWithVS\obj\Debug\01.PlayWithVS.exe
-G:\Projects\Work\Telerik-Academy-2016\C# Part 1\01.IntroToProgramming\01.PlayWithVS\obj\Debug\01.PlayWithVS.pdb

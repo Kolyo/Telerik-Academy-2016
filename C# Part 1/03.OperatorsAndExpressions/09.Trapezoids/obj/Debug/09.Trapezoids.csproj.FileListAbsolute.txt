@@ -3,3 +3,6 @@ C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\03.OperatorsAndExpress
 C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\03.OperatorsAndExpressions\09.Trapezoids\bin\Debug\09.Trapezoids.pdb
 C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\03.OperatorsAndExpressions\09.Trapezoids\obj\Debug\09.Trapezoids.exe
 C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\03.OperatorsAndExpressions\09.Trapezoids\obj\Debug\09.Trapezoids.pdb
+G:\Projects\Work\Telerik-Academy-2016\C# Part 1\03.OperatorsAndExpressions\09.Trapezoids\bin\Debug\09.Trapezoids.exe.config
+G:\Projects\Work\Telerik-Academy-2016\C# Part 1\03.OperatorsAndExpressions\09.Trapezoids\obj\Debug\09.Trapezoids.exe
+G:\Projects\Work\Telerik-Academy-2016\C# Part 1\03.OperatorsAndExpressions\09.Trapezoids\obj\Debug\09.Trapezoids.pdb

@@ -4,3 +4,9 @@ C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\03.OperatorsAndExpress
 C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\03.OperatorsAndExpressions\13.ModifyBit\obj\Debug\13.ModifyBit.csprojResolveAssemblyReference.cache
 C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\03.OperatorsAndExpressions\13.ModifyBit\obj\Debug\13.ModifyBit.exe
 C:\Users\klkolev\Documents\Telerik-Academy-2016\C# Part 1\03.OperatorsAndExpressions\13.ModifyBit\obj\Debug\13.ModifyBit.pdb
+G:\Projects\Work\Telerik-Academy-2016\C# Part 1\03.OperatorsAndExpressions\13.ModifyBit\bin\Debug\13.ModifyBit.exe.config
+G:\Projects\Work\Telerik-Academy-2016\C# Part 1\03.OperatorsAndExpressions\13.ModifyBit\obj\Debug\13.ModifyBit.exe
+G:\Projects\Work\Telerik-Academy-2016\C# Part 1\03.OperatorsAndExpressions\13.ModifyBit\obj\Debug\13.ModifyBit.pdb
+G:\Projects\Work\Telerik-Academy-2016\C# Part 1\03.OperatorsAndExpressions\13.ModifyBit\bin\Debug\13.ModifyBit.exe
+G:\Projects\Work\Telerik-Academy-2016\C# Part 1\03.OperatorsAndExpressions\13.ModifyBit\bin\Debug\13.ModifyBit.pdb
+G:\Projects\Work\Telerik-Academy-2016\C# Part 1\03.OperatorsAndExpressions\13.ModifyBit\obj\Debug\13.ModifyBit.csprojResolveAssemblyReference.cache

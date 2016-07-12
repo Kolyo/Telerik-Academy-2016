@@ -1,26 +1,24 @@
 ﻿using System;
 
-//TODO: Make with bitwise operators
 class Program
 {
     static void Main()
     {
-        long n = long.Parse(Console.ReadLine());
+        ulong n = ulong.Parse(Console.ReadLine());
         int position = int.Parse(Console.ReadLine());
-        char v = char.Parse(Console.ReadLine());
+        uint v = uint.Parse(Console.ReadLine());
+  
 
-        string bitvalue = Convert.ToString(n, 2).PadLeft(64, '0'); 
-        char[] bits = bitvalue.ToCharArray();
-        bits[bits.Length - (position+1)] = v;
-
-        bitvalue = "";
-
-        for (int i = 0; i < bits.Length; i++)
+        if (v == 1)
         {
-            bitvalue += bits[i];
+            uint shifted = v << position;
+            Console.WriteLine(n | shifted);
+        }
+        else
+        {
+            uint shifted = v << position;
+            Console.WriteLine(n ^ (~shifted));
         }
 
-        long output = Convert.ToInt64(bitvalue, 2);
-        Console.WriteLine(output);
     }
 }

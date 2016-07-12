@@ -8,7 +8,7 @@ class Program
         double y = double.Parse(Console.ReadLine());
 
         string output = "";
-        if ((x < 2.5 && x >= -0.5) && (y <= 2.5 && y >= -0.5))
+        if ((x - 1) * (x - 1) + (y - 1) * (y - 1) <= 1.5 * 1.5)
         {
             output += "inside circle ";
         }

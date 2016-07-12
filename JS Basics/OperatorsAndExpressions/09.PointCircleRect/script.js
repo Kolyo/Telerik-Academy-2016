@@ -2,7 +2,7 @@ function solve(args) {
     var x = +args[0];
     var y = +args[1];
     var output = '';
-    if (x >= -0.5 && x <= 2.5 && y >= -0.5 && y <= 2.5) {
+    if (Math.sqrt(Math.pow((x - 1), 2) + Math.pow((y - 1), 2)) <= 1.5) {
         output += 'inside circle ';
     } else {
         output += 'outside circle ';
@@ -14,4 +14,5 @@ function solve(args) {
     }
     return output;
 }
+
 console.log(solve(['1', '2']));

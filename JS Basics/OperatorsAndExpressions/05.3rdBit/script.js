@@ -1,12 +1,8 @@
 function solve(args) {
-    var n = +args[0];
+    var n = +args[0],
+        mask = 1 << 3, out;
+    out = n & mask;
 
-    var bits = n.toString(2);
-    if (bits.length >= 3) {
-        return bits[bits.length - 3];
-    }
-    else {
-        return '0';
-    }
-
+    return out >> 3;
 }
+console.log(solve(['1024']));

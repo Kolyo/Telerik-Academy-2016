@@ -2,35 +2,35 @@ function solve(args) {
     var a = args[0], out = '';
 
     if (+a === 0) {
-        return 'zero';
+        return 'Zero';
     }
     switch (+a[a.length - 3]) {
         case 1:
-            out += 'one hundred and ';
+            out += 'One hundred and ';
             break;
         case 2:
-            out += 'two hundred and ';
+            out += 'Two hundred and ';
             break;
         case 3:
-            out += 'three hundred and ';
+            out += 'Three hundred and ';
             break;
         case 4:
-            out += 'four hundred and ';
+            out += 'Four hundred and ';
             break;
         case 5:
-            out += 'five hundred and ';
+            out += 'Five hundred and ';
             break;
         case 6:
-            out += 'six hundred and ';
+            out += 'Six hundred and ';
             break;
         case 7:
-            out += 'seven hundred and ';
+            out += 'Seven hundred and ';
             break;
         case 8:
-            out += 'eight hundred and ';
+            out += 'Eight hundred and ';
             break;
         case 9:
-            out += 'nine hundred and ';
+            out += 'Nine hundred and ';
             break;
         default:
             out += '';
@@ -40,91 +40,91 @@ function solve(args) {
     if (a[a.length - 2] <= 2) {
         switch (+(a[a.length - 2].concat(a[a.length - 1]))) {
             case 0:
-                out += 'zero';
+                out += 'Zero';
                 break;
             case 1:
-                out += 'one';
+                out += 'One';
                 break;
             case 2:
-                out += 'two';
+                out += 'Two';
                 break;
             case 3:
-                out += 'three';
+                out += 'Three';
                 break;
             case 4:
-                out += 'four';
+                out += 'Four';
                 break;
             case 5:
-                out += 'five';
+                out += 'Five';
                 break;
             case 6:
-                out += 'six';
+                out += 'Six';
                 break;
             case 7:
-                out += 'seven';
+                out += 'Seven';
                 break;
             case 8:
-                out += 'eight';
+                out += 'Eight';
                 break;
             case 9:
-                out += 'nine';
+                out += 'Nine';
                 break;
             case 10:
-                out += 'ten';
+                out += 'Ten';
                 break;
             case 11:
-                out += 'eleven';
+                out += 'Eleven';
                 break;
             case 12:
-                out += 'twelve';
+                out += 'Twelve';
                 break;
             case 13:
-                out += 'thirteen';
+                out += 'Thirteen';
                 break;
             case 14:
-                out += 'fourteen';
+                out += 'Fourteen';
                 break;
             case 15:
-                out += 'fifteen';
+                out += 'Fifteen';
                 break;
             case 16:
-                out += 'sixteen';
+                out += 'Sixteen';
                 break;
             case 17:
-                out += 'seventeen';
+                out += 'Seventeen';
                 break;
             case 18:
-                out += 'eighteen';
+                out += 'Eighteen';
                 break;
             case 19:
-                out += 'nineteen';
+                out += 'Nineteen';
                 break;
             case 20:
-                out += 'twenty';
+                out += 'Twenty';
                 break;
         }
     } else {
         switch (+a[a.length - 2]) {
             case 3:
-                out += 'thirty ';
+                out += 'Thirty ';
                 break;
             case 4:
-                out += 'fourty ';
+                out += 'Fourty ';
                 break;
             case 5:
-                out += 'fifty ';
+                out += 'Fifty ';
                 break;
             case 6:
-                out += 'sixty ';
+                out += 'Sixty ';
                 break;
             case 7:
-                out += 'seventy ';
+                out += 'Seventy ';
                 break;
             case 8:
-                out += 'eighty ';
+                out += 'Eighty ';
                 break;
             case 9:
-                out += 'ninety ';
+                out += 'Ninety ';
                 break;
             case 0:
                 out += '';
@@ -134,31 +134,31 @@ function solve(args) {
 
         switch (+a[a.length - 1]) {
             case 1:
-                out += 'one';
+                out += 'One';
                 break;
             case 2:
-                out += 'two';
+                out += 'Two';
                 break;
             case 3:
-                out += 'three';
+                out += 'Three';
                 break;
             case 4:
-                out += 'four';
+                out += 'Four';
                 break;
             case 5:
-                out += 'five';
+                out += 'Five';
                 break;
             case 6:
-                out += 'six';
+                out += 'Six';
                 break;
             case 7:
-                out += 'seven';
+                out += 'Seven';
                 break;
             case 8:
-                out += 'eight';
+                out += 'Eight';
                 break;
             case 9:
-                out += 'nine';
+                out += 'Nine';
                 break;
         }
     }

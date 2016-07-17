@@ -1,11 +1,12 @@
 function solve(args) {
-    var a = +args[0];
-    var b = +args[1];
-    var c = +args[2];
-    var counter = 0;
+    var a = +args[0],
+        b = +args[1],
+        c = +args[2],
+        counter = 0;
 
     if (a === 0 || b === 0 || c === 0) {
         console.log('0');
+        return;
     }
     if (a < 0) {
         counter++;
@@ -22,4 +23,5 @@ function solve(args) {
         console.log('-');
     }
 }
+
 console.log(solve(['5', '0', '2']));

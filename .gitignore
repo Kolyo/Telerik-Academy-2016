@@ -8,3 +8,4 @@ App.config
 *.csproj
 *.zip
 *.rar
+node_modules/
